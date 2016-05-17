@@ -5,7 +5,6 @@
 
 
 # 연락처
-- 010-9102-6229
 - koreaparks@gmail.com
 
 
@@ -22,8 +21,8 @@
  · 바이두 푸시 서비스 적용
  · 하이브리드 웹페이지 커스텀 스키마에 따른 작업
  · 선사 및 로그인 여부에 따라 NavigationDrawer item 변경
-- Play Store(출시 준비 중)
-- App Store(개발 중)
+- [Play Store](https://play.google.com/store/apps/details?id=kr.altplus.app.coferry)
+- App Store(출시 준비 중)
  ![capture](img/coferry.png)
 
 ##MintPlayer
