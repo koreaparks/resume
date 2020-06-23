@@ -11,13 +11,14 @@
 - 기간: 2020.02 ~ 
 - 소속: 개인
 - 발주처: Flowithus
-- 역할: Android, iOS, PC 개발
-- 사용기술: Kotlin, Swift, C#, Firebase Cloud Engine, Firebase Auth, Google 로그인, Facebook 로그인, Bluetooth 소켓 통신
+- 역할: Android, iOS, PC(Winform, WPF) 개발
+- 사용기술: Kotlin, Swift, C#, Firebase Cloud Engine, Firebase Auth, Google 로그인, Facebook 로그인, Bluetooth 소켓 통신(Android), Bluetooth Low Energy 통신(iOS)
 - 주요 작업 내용:
-	- 블루투스 소켓 통신
+	- Bluetooth 소켓 및 BLE 통신
 	- PC 키입력 이벤트 발생
 	- Firebase 서비스 활용
-- 개발중
+	- 구글 광고 및 구독(정기결제) 서비스 사용
+- [Play Store](https://play.google.com/store/apps/details?id=io.touchflow.app) / [App Store](https://itunes.apple.com/kr/app/podcast/id1510129181?mt=8&uo=4) / [PC](https://touchflow.io/)
  ![capture](img/touchflow.png)
  
 ## mTranskey
