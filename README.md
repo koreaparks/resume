@@ -18,7 +18,7 @@
 	- PC 키입력 이벤트 발생
 	- Firebase 서비스 활용
 	- 구글 광고 및 구독(정기결제) 서비스 사용
-- [Play Store](https://play.google.com/store/apps/details?id=io.touchflow.app) / [App Store](https://itunes.apple.com/kr/app/podcast/id1510129181?mt=8&uo=4) / [PC](https://touchflow.io/)
+- [Play Store](https://play.google.com/store/apps/details?id=io.touchflow.app) / [App Store](https://itunes.apple.com/kr/app/podcast/id1510129181?mt=8&uo=4) / [PC](http://touchflow.io/)
  ![capture](img/touchflow.png)
  
 ## mTranskey
