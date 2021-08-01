@@ -1,8 +1,13 @@
+# 프로필
+- 이름: 박대한
+- 연락처: koreaparks@gmail.com 
+- 직무경력
+	- 라온시큐어 | 2016.09.05~현재 | Android 개발자
+	- Altplus(현 UniqueUX) | 2013.12.15~2016.08.25 (2년 8개월) | Android 개발자
 
-
-# 연락처
-- koreaparks@gmail.com 
-
+# 보유기술
+- Language: Java, Kotlin, Objective-C, Swift, PHP, HTML, javascript
+- Database: sqlite, MySQL, RealmDB
 
 # 경력기술서
 
@@ -203,19 +208,6 @@
 - [Play Store](https://play.google.com/store/apps/details?id=kr.or.kaff.nongter)
  ![capture](img/nongter3.png)
 
-## 2015 청소년 북토큰 도서 독후감 대회
-독후감 대회 응모 및 결과 확인
-- 기간: 2015.05 ~ 2015.11
-- 소속: Altplus
-- 발주처: 국민독서문화진흥회
-- 역할: 웹 사이트 개발 및 유지보수
-- 사용기술: Linux(Ubuntu), MySQL, CodeIgniter, PHP, JavaScript, JQuery
-- 주요 작업 내용: 
-  - 소개 페이지, 게시판, SNS 공유, 대회 응모, 관리자 통계 및 응시 현황 등 페이지 전체
-  - 화면 크기에 따른 레이아웃 변경 개발
-- http://booktoken.or.kr (서비스 종료)
- ![capture](img/booktoken.png)
-
 ## HappyShuttle
 대리기사 셔틀버스 노선, 탑승 관리
 - 기간: 2015.01 ~ 2015.03
@@ -228,34 +220,6 @@
   - JQueryMobile 이용 모바일 웹 UI/UX개발
 - 서비스 중단
  ![capture](img/happyshuttle.png)
-
-## HiSiwon
-류시원 팬클럽 SNS
-- 기간: 2014.09 ~ 2014.10
-- 소속: Altplus
-- 발주처: R’s Company
-- 역할: Android 앱 유지보수
-- 사용기술: Android Java, GCM
-- 주요 작업 내용: 
-  - 푸시 오류 수정
-  - Handler 오류 및 부자연스러운 Activities Life Cycle 수정
-  - 무료버전 안내 페이지, 버전 표시 추가 및 UI 수정
-  - 기타 버그 수정
-- Play Store (서비스 종료)
- ![capture](img/hisiwon.png)
-
-## 나만봐
-동영상 및 이미지 암호화
-- 기간: 2014.08 ~ 2014.09
-- 소속: Altplus
-- 발주처: Altplus
-- 역할: Android 앱 개발
-- 사용기술: Android Java, picasso, altplusDRM
-- 주요 작업 내용: 
-  - 기기에 저장되어있는 동영상 및 이미지 불러오기
-  - DRM모듈을 통한 암호화 저장
-- Play Store (서비스 종료)
- ![capture](img/onlyicansee.png)
 
 
 ## InEDU
@@ -287,22 +251,6 @@
   - 강의 리스트, 최근 재생 강의 리스트, 수강률 확인
 - [Play Store](https://play.google.com/store/apps/details?id=kr.altplus.app.legend9)
  ![capture](img/nine.png)
-
-
-## UPs
-업무관리 서비스
-- 기간: 2014.03 ~ 2014.06
-- 소속: Altplus
-- 발주처: (주) 아펙스플랫폼
-- 역할: Android 앱 개발
-- 사용기술: Android Java, Volley, GBasS, Facebook Login
-- 주요 작업 내용: 
-  - REST API 서버 통신
-  - GBasS, Facebook 로그인
-  - Event, Task, Memo 리스트, 검색, 등록 및 수정
-  - List item drag&drop으로 다른 List에 이동/복사
-- 개발 중단
- ![capture](img/ups.png)
 
 
 ## 문정아중국어
